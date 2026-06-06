@@ -1,6 +1,7 @@
 import Quiz from "../assets/Quiz.png";
 import Ecommerce from "../assets/ecommerce.png";
 import HR from "../assets/HR.png";
+import game from "../assets/game.png";
 
 import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
@@ -11,8 +12,8 @@ function Projects() {
       description:
         "A full-featured e-commerce platform with product management, shopping cart, and admin dashboard.",
       image: Ecommerce,
-      github: "",
-      live: "",
+      github: "https://e-commerce-website-opal-six.vercel.app/",
+      live: "https://e-commerce-website-opal-six.vercel.app/",
     },
 
     {
@@ -21,7 +22,7 @@ function Projects() {
         "React.js based quiz application with score tracking and dynamic question handling.",
       image: Quiz,
       github: "https://github.com/Sonuks07/QuizEngine-For-Coders",
-      live: "",
+      live: "https://quiz-engine-w6vh.vercel.app/",
     },
 
     {
@@ -30,6 +31,14 @@ function Projects() {
         "AI-powered recruitment system for resume analysis, candidate tracking, and HR workflow automation.",
       image: HR,
       github: "",
+      live: "",
+    },
+    {
+      title: "Adventure-Game",
+      description:
+        "A browser-based game using HTML, CSS, and JavaScript where players jump and move to avoidmonsters.",
+      image: game,
+      github: "https://github.com/Sonuks07/Adventure-Game",
       live: "",
     },
   ];
