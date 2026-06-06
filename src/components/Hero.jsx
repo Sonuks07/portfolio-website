@@ -17,7 +17,7 @@ function Hero() {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1TBijxziPBo0pvo4fSnwfOEiKkoIJg5NL/view?usp=drive_link"
+            href="https://drive.google.com/file/d/14CWZlb6guqoBVbgUq9PptyuFiahHUKmg/view?usp=drive_link"
             className="btn"
             target="_blank"
             rel="noreferrer"
